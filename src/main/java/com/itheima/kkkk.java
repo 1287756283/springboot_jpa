@@ -1,5 +1,5 @@
 package com.itheima;
 
 public class kkkk {
-    222
+  int a=1;
 }
